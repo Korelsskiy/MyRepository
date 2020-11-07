@@ -1,4 +1,4 @@
-package space.korelskiy.korelskiymovieapp.movie_det
+package space.korelskiy.korelskiymovieapp.ui.movie_det
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
